@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    padding: 10%;
+    margin: 5px;
+   
+}
+button{
+
+}
+
+legend{
+    color: #855555;
+}
+
+#user_dob{
+    color: orange;
+}
+
+#today_date{
+    color: red;
+}
+
+
